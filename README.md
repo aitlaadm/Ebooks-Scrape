@@ -11,4 +11,4 @@
 
 ## Notes
 1. In this case, we need to install all libraries in ```requirements.txt```
-2. Because we want to store (append) data in csv, we need to create a csv first named ```output.csv``` in the main directory and filled the header and keep the rest empty.
+2. Because we want to store (append) data in csv, we need to create a csv first named ```output.csv``` in the main directory and fill the header and keep the rest empty.
